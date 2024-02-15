@@ -1,0 +1,10 @@
+C:\Users\pcbr4\OneDrive\Favoritos\Documentos\GitHub\nem_c-\aula2\bin\Debug\aula2.exe.config
+C:\Users\pcbr4\OneDrive\Favoritos\Documentos\GitHub\nem_c-\aula2\bin\Debug\aula2.exe
+C:\Users\pcbr4\OneDrive\Favoritos\Documentos\GitHub\nem_c-\aula2\bin\Debug\aula2.pdb
+C:\Users\pcbr4\OneDrive\Favoritos\Documentos\GitHub\nem_c-\aula2\obj\Debug\aula2.csproj.AssemblyReference.cache
+C:\Users\pcbr4\OneDrive\Favoritos\Documentos\GitHub\nem_c-\aula2\obj\Debug\aula2.Form1.resources
+C:\Users\pcbr4\OneDrive\Favoritos\Documentos\GitHub\nem_c-\aula2\obj\Debug\aula2.Properties.Resources.resources
+C:\Users\pcbr4\OneDrive\Favoritos\Documentos\GitHub\nem_c-\aula2\obj\Debug\aula2.csproj.GenerateResource.cache
+C:\Users\pcbr4\OneDrive\Favoritos\Documentos\GitHub\nem_c-\aula2\obj\Debug\aula2.csproj.CoreCompileInputs.cache
+C:\Users\pcbr4\OneDrive\Favoritos\Documentos\GitHub\nem_c-\aula2\obj\Debug\aula2.exe
+C:\Users\pcbr4\OneDrive\Favoritos\Documentos\GitHub\nem_c-\aula2\obj\Debug\aula2.pdb
